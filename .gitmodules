@@ -1,0 +1,66 @@
+[submodule "Gumroad-API-Webhook-Endpoint"]
+	path = Gumroad-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Gumroad-API-Webhook-Endpoint.git
+[submodule "Twitch-API-Webhook-Endpoint"]
+	path = Twitch-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Twitch-API-Webhook-Endpoint.git
+[submodule "GitHubSponsors-API-Webhook-Endpoint"]
+	path = GitHubSponsors-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/GitHubSponsors-API-Webhook-Endpoint.git
+[submodule "Patreon-API-Webhook-Endpoint"]
+	path = Patreon-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Patreon-API-Webhook-Endpoint.git
+[submodule "BuyMeACoffee-API-Webhook-Endpoint"]
+	path = BuyMeACoffee-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/BuyMeACoffee-API-Webhook-Endpoint.git
+[submodule "Bloginus-CMS"]
+	path = Bloginus-CMS
+	url = https://github.com/DeveloppeurPascal/Bloginus-CMS.git
+[submodule "KoFi-API-Webhook-Endpoint"]
+	path = KoFi-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/KoFi-API-Webhook-Endpoint.git
+[submodule "LemonSqueezy-API-Webhook-Endpoint"]
+	path = LemonSqueezy-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy-API-Webhook-Endpoint.git
+[submodule "PHP-UserPassword-2FA-With-LogNPass"]
+	path = PHP-UserPassword-2FA-With-LogNPass
+	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-2FA-With-LogNPass.git
+[submodule "OTP-Authentication-Basics"]
+	path = OTP-Authentication-Basics
+	url = https://github.com/DeveloppeurPascal/OTP-Authentication-Basics.git
+[submodule "Passwordless-Authentication-Basics"]
+	path = Passwordless-Authentication-Basics
+	url = https://github.com/DeveloppeurPascal/Passwordless-Authentication-Basics.git
+[submodule "PHP-UserPassword-Basics"]
+	path = PHP-UserPassword-Basics
+	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-Basics.git
+[submodule "Light-ActivityPub-Server-PHP"]
+	path = Light-ActivityPub-Server-PHP
+	url = https://github.com/DeveloppeurPascal/Light-ActivityPub-Server-PHP.git
+[submodule "PHP-API-Dump"]
+	path = PHP-API-Dump
+	url = https://github.com/DeveloppeurPascal/PHP-API-Dump.git
+[submodule "VaSur-Light"]
+	path = VaSur-Light
+	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
+[submodule "SPIP-FCKEditor-plugin"]
+	path = SPIP-FCKEditor-plugin
+	url = https://github.com/DeveloppeurPascal/SPIP-FCKEditor-plugin.git
+[submodule "Prestashop-SIPS-plugin"]
+	path = Prestashop-SIPS-plugin
+	url = https://github.com/DeveloppeurPascal/Prestashop-SIPS-plugin.git
+[submodule "php-shopping-cart-management"]
+	path = php-shopping-cart-management
+	url = https://github.com/DeveloppeurPascal/php-shopping-cart-management.git
+[submodule "CKEditor-plugins"]
+	path = CKEditor-plugins
+	url = https://github.com/DeveloppeurPascal/CKEditor-plugins.git
+[submodule "DC2-GoogleAdsense-widget"]
+	path = DC2-GoogleAdsense-widget
+	url = https://github.com/DeveloppeurPascal/DC2-GoogleAdsense-widget.git
+[submodule "DC2-BlocHTML-Widget"]
+	path = DC2-BlocHTML-Widget
+	url = https://github.com/DeveloppeurPascal/DC2-BlocHTML-Widget.git
+[submodule "RezEmploi"]
+	path = RezEmploi
+	url = https://github.com/DeveloppeurPascal/RezEmploi.git
