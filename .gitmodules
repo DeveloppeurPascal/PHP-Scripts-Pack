@@ -64,3 +64,6 @@
 [submodule "RezEmploi"]
 	path = RezEmploi
 	url = https://github.com/DeveloppeurPascal/RezEmploi.git
+[submodule "Simple-Multilingual-Site"]
+	path = Simple-Multilingual-Site
+	url = https://github.com/DeveloppeurPascal/Simple-Multilingual-Site.git
