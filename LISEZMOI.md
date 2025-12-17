@@ -40,7 +40,7 @@ Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'impor
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
 
-Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence commerciale dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
+Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous une licence de développement classique. [Contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins.
 
 Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 

@@ -40,7 +40,7 @@ You are generally free to use the contents of this code repository anywhere, pro
 * distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
 
-If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+If this license doesn't suit your needs, you can purchase the right to use this project under a classic developer license. [Contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs.
 
 These source codes are provided as is, without warranty of any kind.
 
