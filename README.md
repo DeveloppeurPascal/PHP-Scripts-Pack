@@ -12,6 +12,10 @@ You can also consult [my other projects packs](https://github.com/DeveloppeurPas
 
 Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
+### Web Development Videos and Courses
+
+Between two live developed web projects, I’ve occasionally recorded tutorials, courses, or online presentations. You can watch the replays on [PeerTube](https://videos.trucs-de-developpeur-web.fr) or [my YouTube channel](https://www.youtube.com/@patrickpremartin).
+
 ## Source code installation
 
 If you download a ZIP file from GitHub it will be empty. You must use "git" command or a GUI to clone or fork this code repository with its submodules.

@@ -12,6 +12,10 @@ Vous pouvez aussi consulter [mes autres packs de projets](https://github.com/Dev
 
 Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
+### Videos et cours de développement web
+
+Entre deux projets web développés en direct il m'est arrivé d'enregistrer des tutoriels, des cours ou des présentations en ligne. Vous pouvez suivre leurs rediffusions depuis une instance [PeerTube](https://videos.trucs-de-developpeur-web.fr) ou [ma chaîne YouTube](https://www.youtube.com/@patrickpremartin).
+
 ## Installation des codes sources
 
 Si vous téléchargez un fichier ZIP depuis GitHub il sera vide. Vous devez utiliser la commande "git" ou une interface utilisateur dédiée pour cloner ou dupliquer ce dépôt et ses sous-modules.
